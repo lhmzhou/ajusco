@@ -1,6 +1,6 @@
 # ajusco
 
-An GraphQL app to write cross-platform queries
+A GraphQL app to write cross-platform queries, Apollo Client integration, and persisted queries
 
 ## Setup
 
