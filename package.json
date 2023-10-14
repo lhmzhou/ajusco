@@ -1,6 +1,6 @@
 {
   "name": "ajusco",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "description": "scalable client-side application to showcase cross-platform queries and caching ",
   "type": "module",
   "author": "Linda Zhou",
